@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{K-Means}{4}{0}{2}
+\beamer@sectionintoc {3}{Convex Formulation}{9}{0}{3}
+\beamer@sectionintoc {4}{Computation}{17}{0}{4}
+\beamer@sectionintoc {5}{Results}{22}{0}{5}
+\beamer@sectionintoc {6}{Discussion}{23}{0}{6}
